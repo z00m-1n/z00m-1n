@@ -4,7 +4,6 @@
 
 
 ### 🙋‍♀️ About Me
----
 
 - 이화여자대학교 인공지능대학 컴퓨터공학과 전공 (2020.03 - 2025.08)
 - 한화 System BEYOND 15기 수료 (2025.01 - 2025.07)
@@ -14,7 +13,6 @@
 </br>
 
 ### 💼 Career
----
 
 - CJ푸드빌 글로벌 PI팀 인턴 : 2024.06 - 2024.11 (6개월)
   - PI(Project Innovation) 과제 기획 및 데이터 분석
@@ -25,7 +23,6 @@
 </br>
 
 ### 🏆 Awards
----
 
 - EWHA Womans University Capstone Design Project - Encouragement Award (3rd Place) (2023.05)
 
@@ -33,7 +30,6 @@
 </br>
 
 ### 🧾 Certificates
----
 
 - 정보처리기사 (2025.05)
 - SQLD (2025.04)
@@ -42,7 +38,6 @@
 </br>
 
 ### 🛠 Tech Stack
----
 
 **FrontEnd**
 
@@ -109,7 +104,6 @@
 
 
 ### 📊 GitHub Stats
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=z00m-1n&show_icons=true&theme=tokyonight" height="180"/>
@@ -119,7 +113,6 @@
 
 
 ### 📈 Baekjoon Online Judge (BOJ)
----
 
 <p align="center">
   <a href="https://solved.ac/z00m_1n">
