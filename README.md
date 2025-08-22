@@ -13,12 +13,12 @@
 
 - CJ푸드빌 글로벌 PI팀 인턴 : 2024.06 - 2024.11 (6개월)
   - PI(Project Innovation) 과제 기획 및 데이터 분석
-  - CRM & SCM 연계 기반 프로세스 개선 참여
-  - 파이썬 기반 데이터 크롤링 및 Tableau 시각화 업무 경험
+  - 파이썬 기반 데이터 크롤링 및 감정 분석 Tableau 시각화 업무 경험
 
 
 ## 🏆 Awards
 
+- KDT Hackerthon - Technology Innovation Award (5th Place) (2025.09)
 - EWHA Womans University Capstone Design Project - Encouragement Award (3rd Place) (2023.05)
 
 
