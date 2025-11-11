@@ -93,13 +93,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=z00m-1n&show_icons=true&theme=tokyonight" height="180"/>
 </p>
-
-
-
-## 📈 Baekjoon Online Judge (BOJ)
-
-<p align="center">
-  <a href="https://solved.ac/z00m_1n">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=z00m_1n" alt="Solved.ac Profile"/>
-  </a>
-</p>
